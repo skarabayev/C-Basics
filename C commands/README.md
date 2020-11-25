@@ -1,1 +1,1 @@
-Implementation of most used function in C programming.
+Implementation of most used shell commands in Linux using C programming.
